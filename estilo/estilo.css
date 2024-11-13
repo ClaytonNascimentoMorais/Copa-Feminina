@@ -60,6 +60,9 @@ main{
     margin: auto;
     padding: 10px;
 }
+picture{
+    display: 100%
+}
 picture >a{
     color: white;
     padding: 45px;
