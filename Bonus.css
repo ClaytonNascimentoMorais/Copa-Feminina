@@ -62,6 +62,7 @@ main{
 }
 main>picture{
     text-align: center;
+    display: block;
 }
 main>p{
     font-family: Arial, Helvetica, sans-serif;
