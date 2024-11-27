@@ -62,7 +62,7 @@ main{
 }
 main>picture{
     text-align: center;
-    display: block;
+    
 }
 main>p{
     font-family: Arial, Helvetica, sans-serif;
@@ -72,6 +72,7 @@ main>p{
 }
 .img{
     text-align: center;
+    width: 100vh;
 }
 div.video{
     background-color: white;
