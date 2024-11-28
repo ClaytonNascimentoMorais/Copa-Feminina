@@ -72,7 +72,7 @@ main>p{
 }
 .img{
     text-align: center;
-    width: 100vh;
+    width: auto;
 }
 div.video{
     background-color: white;
